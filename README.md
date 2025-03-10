@@ -1,5 +1,7 @@
 👋 Hi, I’m @ZeidMahmoud
 
+- 📫 How to reach me **ZeidMahmoud@proton.me**
+
 👀 I’m interested in software, cyber security, machine learning, and exploring new technologies.
 
 🌱 I’m currently learning advanced algorithms and data structures to enhance my problem-solving skills.
@@ -8,27 +10,11 @@
 
 ⚡ Fun fact: I'm a huge fan of Art, History, computers.```
 
-<h1 align="center">Hi 👋, I'm Zeid alphab91)</h1>
-
-<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elbachir-one&label=Profile%20views&color=0e75b6&style=flat" alt="elbachir-one" /> </p>
-
-- 📫 How to reach me **ZeidMahmoud@proton.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.youtube.com/@alphab91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphab91" height="30" width="40" /></a>
-  <a href="https://discord.gg/xWWs76rZna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xWWs76rZna" height="30" width="40" /></a>
-</p>
-
-<div style="background-color: #000000; padding: 20px; border-radius: 10px;">
-
 ### OS:
 
-| Linux | OpenBSD | Haiku OS | CubeOS | Red Hat | Ubuntu | Kali |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Haiku_%28operating_system%29_logo.svg" title="Haiku OS" alt="Haiku OS" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="Qubes OS" alt="Qubes OS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Red Hat" alt="Red Hat" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
+| OpenBSD | CubeOS | Kali |
+|----------|----------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="Qubes OS" alt="Qubes OS" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
 
 </div>
 
