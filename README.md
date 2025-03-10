@@ -14,7 +14,7 @@
 
 | OpenBSD | CubeOS | Kali | Slackware | 
 |----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="Qubes OS" alt="Qubes OS" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_web_logo.svg" title="Slackware" alt="Slackware" width="55" height="55"/>
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="Qubes OS" alt="Qubes OS" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_web_logo.svg" title="Slackware" alt="Slackware" width="55" height="55"/> |
 
 </div>
 
