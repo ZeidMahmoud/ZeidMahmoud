@@ -1,6 +1,6 @@
 👋 Hi, I’m @ZeidMahmoud
 
-- 📫 How to reach me **ZeidMahmoud@proton.me**
+- 📫 reach me **ZeidMahmoud@proton.me**
 
 👀 I’m interested in software, cyber security, machine learning, and exploring new technologies.
 
@@ -10,11 +10,11 @@
 
 ⚡ Fun fact: I'm a huge fan of Art, History, computers.```
 
-### OS:
+### OS
 
-| OpenBSD | CubeOS | Kali |
+| OpenBSD | CubeOS | Kali | Slackware | 
 |----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="Qubes OS" alt="Qubes OS" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/OpenBSD_textual_logo.svg" title="OpenBSD" alt="OpenBSD" width="65" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" title="Qubes OS" alt="Qubes OS" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_web_logo.svg" title="Slackware" alt="Slackware" width="55" height="55"/>
 
 </div>
 
@@ -34,32 +34,10 @@
 
 ### Tools:
 
-| Bootstrap | Docker | Git | Heroku | Hugo | Laravel |
-|----------|----------|----------|----------|----------|----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> | <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> |
-| Linux | MongoDB | Nginx | Node.js | Rails |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> |
+| Docker | Git | Hugo |
+|----------|----------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> |
+| MongoDB | Nginx |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> | 
 
 </div>
-
-<hr>
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=elbachir-one&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=elbachir-one&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbachir-one&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-
-<hr>
-
-<h3 align="left">Support ME:</h3>
-<p><a href="https://www.buymeacoffee.com/alphab91" target="blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alphab91"/></a></p>
-<br><br>
