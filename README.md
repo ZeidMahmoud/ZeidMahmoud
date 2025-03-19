@@ -8,8 +8,6 @@
 
 💞️ I’m looking to collaborate on **open-source projects** related to **cyber security** or **AI**.
 
-⚡ Fun fact: I'm a huge fan of **art**, **history**, and **computers**.
-
 ---
 
 ### OS
